@@ -1,0 +1,51 @@
+@media (max-width: 740px) {
+	.header {background-position: 42%;}
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.header{
+		.run{margin-left: -120px;}
+	.header_right{
+		margin-top: 56px;
+		padding-bottom: 195px;
+		.header_text{
+			h1{
+				color: rgb( 15, 129, 248 );
+		      margin-bottom: 27px;  
+			}
+			p{
+				color: rgb( 8, 41, 76 );
+			}
+		}
+		.header_button{
+			
+		}
+	}
+}
+
+.testimonials{
+	.steps_title{}
+	.testimonial{
+			.photo{}
+			.title{
+				margin-bottom: 70px;
+				.name{}
+				.company{}
+			}
+			.rating{}
+			.comments{}
+		}
+	.person{}
+	}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
